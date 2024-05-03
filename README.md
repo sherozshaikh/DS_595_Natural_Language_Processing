@@ -21,6 +21,10 @@ Customer reviews on YELP offer a treasure trove of information for businesses se
 - **[Model Report (PDF)](./Model_Report.pdf)**: A report outlining the performance of different machine learning and deep learning models.
 - **[Model Report (Excel)](./Model_Report.xlsx)**: An Excel file containing model performance metrics for easy reference and analysis.
 
+<p align="center">
+  <img src="Methodology.jpg" width="650" alt="Methodology"/>
+</p>
+
 ## 🔍 Data Description
 
 The dataset used in this project is sourced from YELP and contains pizza-related reviews. It includes various attributes, such as review text, numerical ratings, business information, reviewer information, and review dates. This diverse dataset provides a solid foundation for sentiment analysis, allowing us to extract meaningful insights from customer feedback.
