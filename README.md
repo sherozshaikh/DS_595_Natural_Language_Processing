@@ -25,6 +25,10 @@ Customer reviews on YELP offer a treasure trove of information for businesses se
   <img src="Methodology.jpg" width="650" alt="Methodology"/>
 </p>
 
+<p align="center">
+  <img src="Model_Report.pdf" width="650" alt="Report"/>
+</p>
+
 ## 🔍 Data Description
 
 The dataset used in this project is sourced from YELP and contains pizza-related reviews. It includes various attributes, such as review text, numerical ratings, business information, reviewer information, and review dates. This diverse dataset provides a solid foundation for sentiment analysis, allowing us to extract meaningful insights from customer feedback.
